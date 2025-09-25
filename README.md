@@ -75,3 +75,7 @@ Daha derin ve kompleks CNN mimarileri deneyerek doğruluğu artırmak.
 Transfer learning yöntemleri ile eğitim süresini kısaltmak ve performansı artırmak.
 Gerçek zamanlı veri toplama ve deploy ile modelin end-to-end kullanımını sağlamak.
 Streamlit veya benzeri araçlarla interaktif bir UI geliştirmek.
+
+**Proje Linki**
+
+https://www.kaggle.com/code/hakantosun/akbank-bootcamp
